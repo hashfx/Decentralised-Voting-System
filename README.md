@@ -43,5 +43,7 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 ### License
 [MIT License](https://github.com/hashfx/Decentralised-Voting-System/blob/main/LICENSE)
 
+<hr>
+
 <h2 align="center">
 Thanks for Visiting the <a href="https://github.com/hashfx">Profile</a> and Repository of <a href="https://github.com/hashfx/Decentralised-Voting-System/">Decentralised Voting System</a> 😊
